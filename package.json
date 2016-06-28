@@ -1,0 +1,13 @@
+{
+  "name": "muggle",
+  "version": "0.1.0",
+  "description": "Shake Card Generator",
+  "main": "index.js",
+  "author": "kurisubrooks",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "^1.22.0",
+    "qs": "^6.2.0",
+    "request": "^2.72.0"
+  }
+}
